@@ -1,0 +1,213 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'Clk'
+Slack : -6.480
+TNS   : -432.492
+
+Type  : Slow 1100mV 85C Model Setup 'MEM_lab3:inst7|altsyncram:altsyncram_component|altsyncram_nho1:auto_generated|ram_block1a0~porta_we_reg'
+Slack : -3.398
+TNS   : -51.403
+
+Type  : Slow 1100mV 85C Model Setup 'divb:inst1|clkout'
+Slack : -1.287
+TNS   : -12.379
+
+Type  : Slow 1100mV 85C Model Hold 'Clk'
+Slack : -3.406
+TNS   : -43.357
+
+Type  : Slow 1100mV 85C Model Hold 'MEM_lab3:inst7|altsyncram:altsyncram_component|altsyncram_nho1:auto_generated|ram_block1a0~porta_we_reg'
+Slack : -0.967
+TNS   : -5.656
+
+Type  : Slow 1100mV 85C Model Hold 'divb:inst1|clkout'
+Slack : 0.787
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'divb:inst1|clkout'
+Slack : -2.797
+TNS   : -27.941
+
+Type  : Slow 1100mV 85C Model Recovery 'Clk'
+Slack : -2.477
+TNS   : -102.466
+
+Type  : Slow 1100mV 85C Model Removal 'Clk'
+Slack : -2.179
+TNS   : -88.763
+
+Type  : Slow 1100mV 85C Model Removal 'divb:inst1|clkout'
+Slack : 2.126
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Clk'
+Slack : -2.174
+TNS   : -246.025
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'MEM_lab3:inst7|altsyncram:altsyncram_component|altsyncram_nho1:auto_generated|ram_block1a0~porta_we_reg'
+Slack : -1.701
+TNS   : -104.676
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'divb:inst1|clkout'
+Slack : -0.394
+TNS   : -6.827
+
+Type  : Slow 1100mV 0C Model Setup 'Clk'
+Slack : -6.462
+TNS   : -425.322
+
+Type  : Slow 1100mV 0C Model Setup 'MEM_lab3:inst7|altsyncram:altsyncram_component|altsyncram_nho1:auto_generated|ram_block1a0~porta_we_reg'
+Slack : -3.371
+TNS   : -51.481
+
+Type  : Slow 1100mV 0C Model Setup 'divb:inst1|clkout'
+Slack : -1.312
+TNS   : -12.727
+
+Type  : Slow 1100mV 0C Model Hold 'Clk'
+Slack : -3.541
+TNS   : -47.467
+
+Type  : Slow 1100mV 0C Model Hold 'MEM_lab3:inst7|altsyncram:altsyncram_component|altsyncram_nho1:auto_generated|ram_block1a0~porta_we_reg'
+Slack : -0.948
+TNS   : -5.411
+
+Type  : Slow 1100mV 0C Model Hold 'divb:inst1|clkout'
+Slack : 0.733
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'divb:inst1|clkout'
+Slack : -2.920
+TNS   : -29.174
+
+Type  : Slow 1100mV 0C Model Recovery 'Clk'
+Slack : -2.366
+TNS   : -98.731
+
+Type  : Slow 1100mV 0C Model Removal 'Clk'
+Slack : -2.306
+TNS   : -95.239
+
+Type  : Slow 1100mV 0C Model Removal 'divb:inst1|clkout'
+Slack : 2.275
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Clk'
+Slack : -2.174
+TNS   : -249.581
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'MEM_lab3:inst7|altsyncram:altsyncram_component|altsyncram_nho1:auto_generated|ram_block1a0~porta_we_reg'
+Slack : -1.835
+TNS   : -107.190
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'divb:inst1|clkout'
+Slack : -0.394
+TNS   : -6.885
+
+Type  : Fast 1100mV 85C Model Setup 'Clk'
+Slack : -3.564
+TNS   : -230.026
+
+Type  : Fast 1100mV 85C Model Setup 'MEM_lab3:inst7|altsyncram:altsyncram_component|altsyncram_nho1:auto_generated|ram_block1a0~porta_we_reg'
+Slack : -1.585
+TNS   : -25.366
+
+Type  : Fast 1100mV 85C Model Setup 'divb:inst1|clkout'
+Slack : -0.461
+TNS   : -4.235
+
+Type  : Fast 1100mV 85C Model Hold 'Clk'
+Slack : -1.987
+TNS   : -25.099
+
+Type  : Fast 1100mV 85C Model Hold 'MEM_lab3:inst7|altsyncram:altsyncram_component|altsyncram_nho1:auto_generated|ram_block1a0~porta_we_reg'
+Slack : -0.375
+TNS   : -1.851
+
+Type  : Fast 1100mV 85C Model Hold 'divb:inst1|clkout'
+Slack : 0.396
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'Clk'
+Slack : -1.240
+TNS   : -49.242
+
+Type  : Fast 1100mV 85C Model Recovery 'divb:inst1|clkout'
+Slack : -1.213
+TNS   : -12.119
+
+Type  : Fast 1100mV 85C Model Removal 'Clk'
+Slack : -1.306
+TNS   : -52.227
+
+Type  : Fast 1100mV 85C Model Removal 'divb:inst1|clkout'
+Slack : 0.965
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Clk'
+Slack : -2.174
+TNS   : -205.946
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'MEM_lab3:inst7|altsyncram:altsyncram_component|altsyncram_nho1:auto_generated|ram_block1a0~porta_we_reg'
+Slack : -0.815
+TNS   : -36.180
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'divb:inst1|clkout'
+Slack : -0.049
+TNS   : -0.483
+
+Type  : Fast 1100mV 0C Model Setup 'Clk'
+Slack : -3.262
+TNS   : -203.626
+
+Type  : Fast 1100mV 0C Model Setup 'MEM_lab3:inst7|altsyncram:altsyncram_component|altsyncram_nho1:auto_generated|ram_block1a0~porta_we_reg'
+Slack : -1.447
+TNS   : -23.330
+
+Type  : Fast 1100mV 0C Model Setup 'divb:inst1|clkout'
+Slack : -0.398
+TNS   : -3.688
+
+Type  : Fast 1100mV 0C Model Hold 'Clk'
+Slack : -1.996
+TNS   : -26.955
+
+Type  : Fast 1100mV 0C Model Hold 'MEM_lab3:inst7|altsyncram:altsyncram_component|altsyncram_nho1:auto_generated|ram_block1a0~porta_we_reg'
+Slack : -0.378
+TNS   : -1.917
+
+Type  : Fast 1100mV 0C Model Hold 'divb:inst1|clkout'
+Slack : 0.363
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'divb:inst1|clkout'
+Slack : -1.220
+TNS   : -12.189
+
+Type  : Fast 1100mV 0C Model Recovery 'Clk'
+Slack : -1.025
+TNS   : -40.764
+
+Type  : Fast 1100mV 0C Model Removal 'Clk'
+Slack : -1.365
+TNS   : -55.268
+
+Type  : Fast 1100mV 0C Model Removal 'divb:inst1|clkout'
+Slack : 0.990
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Clk'
+Slack : -2.174
+TNS   : -205.889
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'MEM_lab3:inst7|altsyncram:altsyncram_component|altsyncram_nho1:auto_generated|ram_block1a0~porta_we_reg'
+Slack : -0.751
+TNS   : -33.878
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'divb:inst1|clkout'
+Slack : -0.011
+TNS   : -0.105
+
+------------------------------------------------------------

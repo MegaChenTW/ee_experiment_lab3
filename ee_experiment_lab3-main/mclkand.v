@@ -1,0 +1,9 @@
+module mclkand(ed,ch,m_clk);
+//input
+input ed,ch;
+//output
+output wire m_clk;
+
+assign m_clk = (~ed)&ch;
+
+endmodule
